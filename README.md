@@ -1,2 +1,1 @@
-# CountriesList
-Sample Countries List Project
+# MyCountriesApp
